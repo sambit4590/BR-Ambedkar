@@ -1,0 +1,64 @@
+
+body{
+    
+    background-color: pink;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+    margin-top: 5%;
+}
+#title
+{
+    text-align: center;
+    font-size: 8vh;
+    text-shadow: 5px 5px 10px black;
+    color: white;
+    
+}
+img
+{
+    display: inline-block;
+    width: 100%;
+}
+#caption
+{
+    text-align: center;
+    font-size: 25px;
+    font-family:'Times New Roman';
+    color: black;
+    text-shadow: 5px 5px 10px rgb(255, 0, 123);
+}
+div#data
+{
+    background-color: rgba(250, 45, 144, 0.456);
+    box-shadow: 20px 20px 20px  #98FB98;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 30px;
+}
+h1.DR
+{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+#new
+{
+    background-color: rgba(250, 45, 144, 0.707);
+   padding: ;
+   box-shadow: 20px 20px 20px #98FB98;
+}
+#Last
+{
+    margin-left: 10%;
+    font-size: 20px;
+}
+#last1
+{
+    font-size: 30px;
+    margin-left: 24%;
+    color: black;
+    text-shadow: 5px 5px 10px rgb(255, 0, 123);
+}
